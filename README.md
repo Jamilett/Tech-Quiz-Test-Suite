@@ -24,6 +24,9 @@ Start GUI and run tests - "npm run test-gui"
 ## Contributing
 My bootcamp teachers and the previous classes videos. My friend Abel, Gera and some google as well maybe... Also Mr. Erik from tutoring sessions.
 
+## Video
+https://youtu.be/3_dUNlOjRKE
+
 ## Tests
 Using cypress.
 
